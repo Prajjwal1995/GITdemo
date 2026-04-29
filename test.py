@@ -8,7 +8,7 @@ Created on Mon Oct  7 00:14:35 2024
 
 print("Hey there!")
 
-print("Move aside!")
+#print("Move aside!")
 
 print("This is the first change!")
 
